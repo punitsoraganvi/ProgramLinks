@@ -1,0 +1,41 @@
+
+.body{
+    background-color: aliceblue;
+   
+}
+
+div{
+    text-align: center;
+    align-items: center;
+    width:fit-content
+}
+h1{
+    color: black;
+    font-style: italic;
+}
+
+td{
+    text-align: left;
+    border: 2px solid ;
+    padding: 2px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: blue;
+}
+
+.subheading{
+    text-align: center;
+    color: blue;
+}
+
+footer{
+    color: black;
+    text-align: right;
+    padding-top: 10px;
+}
